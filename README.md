@@ -1,2 +1,36 @@
-# Leetcode-75
-This repository contains my solutions to the Leetcode 75 Study Plan, a curated list of coding problems designed to strengthen your problem-solving skills and prepare for technical interviews. The problems cover a range of topics including arrays, strings, linked lists, trees, dynamic programming, and more.
+lan Solutions
+
+Welcome to my solutions for the **LeetCode 75 Study Plan** – a curated set of problems designed to help you level up your coding skills and prepare for coding interviews. This repository contains well-structured, clean, and commented solutions to all the problems from the plan.
+
+---
+
+## 📌 About the Study Plan
+
+LeetCode 75 is a guided path for practicing **Data Structures & Algorithms**, covering core topics in a progressive manner. It is divided into three sections:
+
+1. **Level 1: 1 - 2 weeks** – Fundamentals (arrays, strings, prefix sums)
+2. **Level 2: 2 - 3 weeks** – Intermediate (two pointers, sliding window, trees)
+3. **Level 3 (optional)** – Advanced (graphs, dynamic programming, etc.)
+
+---
+
+## 🧩 Topics Covered
+
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stack
+- Binary Search
+- Trees
+- Linked Lists
+- Dynamic Programming
+
+---
+
+Each folder contains solutions for that day's problems, named according to their LeetCode titles.
+
+---
+
+## 🛠️ Language Used
+
+Solutions are written in **[C++]**  
