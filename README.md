@@ -38,7 +38,7 @@ Solutions are written in **[C++]**
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/leetcode-75.git
+   git clone https://github.com/Priyankapatel21/leetcode-75.git
    cd leetcode-75
 <!---LeetCode Topics Start-->
 # LeetCode Topics
