@@ -35,11 +35,12 @@ Each folder contains solutions for that day's problems, named according to their
 
 Solutions are written in **[C++]**  
 ## 🚀 How to Use
+## 🔗 My Profiles
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Priyankapatel21/leetcode-75.git
-   cd leetcode-75
+- 🧠 [LeetCode Profile](https://leetcode.com/
+priyanka_patellllll)
+- 💻 [GitHub Repository](https://github.com/Priyankpatel21/leetcode-75)
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
