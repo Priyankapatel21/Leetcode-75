@@ -45,4 +45,12 @@ Solutions are written in **[C++]**
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Priyankapatel21/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Priyankapatel21/Leetcode-75/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Priyankapatel21/Leetcode-75/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
