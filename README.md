@@ -34,7 +34,12 @@ Each folder contains solutions for that day's problems, named according to their
 ## 🛠️ Language Used
 
 Solutions are written in **[C++]**  
+## 🚀 How to Use
 
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/leetcode-75.git
+   cd leetcode-75
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
