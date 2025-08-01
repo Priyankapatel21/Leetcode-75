@@ -34,3 +34,15 @@ Each folder contains solutions for that day's problems, named according to their
 ## 🛠️ Language Used
 
 Solutions are written in **[C++]**  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Priyankapatel21/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Priyankapatel21/Leetcode-75/tree/master/0151-reverse-words-in-a-string) |
+<!---LeetCode Topics End-->
